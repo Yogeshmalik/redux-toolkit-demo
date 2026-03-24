@@ -250,13 +250,11 @@ npm run dev
 - [Immer Documentation](https://immerjs.github.io/immer/)
 - [ESLint Documentation](https://eslint.org/)
 
-### Who Made It Happen
+### Follow:
 
-Follow:
-
-- [Yogesh SM Portfolio](https://yogeshmalikportfolio.netlify.app/)
-- [Yogesh SM Blog](https://medium.com/@ballerbytes)
-- [Yogesh SM Instagram](https://instagram.com/thesixftperspective)
+- 🌐 [Yogesh SM Portfolio](https://yogeshmalikportfolio.netlify.app/)
+- ✍️ [Yogesh SM Blog](https://medium.com/@ballerbytes)
+- 📷 [Yogesh SM Instagram](https://instagram.com/thesixftperspective)
 
 ---
 
@@ -309,6 +307,12 @@ ISC
 ## 🤝 Contributing
 
 Feel free to explore, modify, and extend these projects to deepen your Redux understanding!
+
+### Follow:
+
+- 🌐 [Yogesh SM Portfolio](https://yogeshmalikportfolio.netlify.app/)
+- ✍️ [Yogesh SM Blog](https://medium.com/@ballerbytes)
+- 📷 [Yogesh SM Instagram](https://instagram.com/thesixftperspective)
 
 ---
 
