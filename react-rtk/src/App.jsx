@@ -5,6 +5,7 @@ import UserView from "./features/user/UserView";
 function App() {
   return (
     <div>
+      <h1>Vite React Redux Toolkit (RTK) Demo</h1>
       <CakeView />
       <IcecreamView />
       <UserView />
