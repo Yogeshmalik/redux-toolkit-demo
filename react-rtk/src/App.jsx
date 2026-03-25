@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <h1>Vite React Redux Toolkit (RTK) Demo</h1>
+      <h2>Offer: Free Ice Cream per cake</h2>
       <CakeView />
       <IcecreamView />
       <UserView />
