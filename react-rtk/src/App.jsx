@@ -4,12 +4,24 @@ import UserView from "./features/user/UserView";
 
 function App() {
   return (
-    <div>
-      <h1>Vite React Redux Toolkit (RTK) Demo</h1>
-      <h2>Offer: Free Ice Cream per cake</h2>
-      <CakeView />
-      <IcecreamView />
-      <UserView />
+    <div className="app-container">
+      {/* Main Content */}
+      <main className="main-content">
+        {/* Hero Section */}
+        <section className="hero-section">
+          <h2>Redux Toolkit Showcase</h2>
+          <h3>✨ Special Offer: Free Ice Cream per cake 🎉</h3>
+        </section>
+
+        {/* Features Grid */}
+        <div className="features-grid">
+          <CakeView />
+          <IcecreamView />
+          <div className="users-section">
+            <UserView />
+          </div>
+        </div>
+      </main>
     </div>
   );
 }
