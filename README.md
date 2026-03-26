@@ -30,6 +30,21 @@ redux/
 
 ---
 
+## 🌐 API Used
+
+This project uses **JSONPlaceholder API** for user data fetching demonstrations:
+
+- **Cake Management** - Local state updates
+- **Ice Cream Management** - Local state updates
+- **User Data** - Fetched from [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
+  - Endpoint: `https://jsonplaceholder.typicode.com/users`
+  - Demonstrates Redux Thunk async operations (Plain Redux)
+  - Demonstrates createAsyncThunk (Redux Toolkit)
+
+JSONPlaceholder is a free online REST API that provides fake data perfect for learning and testing purposes. No authentication required!
+
+---
+
 ## 📦 Project 1: Redux (Plain Redux)
 
 **Location:** `./redux/`
@@ -190,14 +205,30 @@ npm run preview
 
 - Node.js 14.0 or higher
 - npm 6.0 or higher
+- Git (for cloning/forking)
+
+### Clone or Fork the Repository
+
+**Option 1: Clone Directly**
+
+```bash
+git clone https://github.com/your-username/redux-learning-journey.git
+cd redux
+```
+
+**Option 2: Fork on GitHub First (Recommended)**
+
+1. Click the "Fork" button on the GitHub repository
+2. Clone your forked repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/redux-learning-journey.git
+cd redux
+```
 
 ### Installation
 
 ```bash
-# Clone repository (if using git)
-git clone <repository-url>
-cd redux
-
 # Each project requires separate installation:
 
 # Redux project
@@ -295,6 +326,29 @@ npm run dev
 ✅ Redux middleware for side effects  
 ✅ Component composition with hooks  
 ✅ Code quality with ESLint
+
+---
+
+## ⭐ Support This Project
+
+### 🌟 Star the Repository
+
+If you found this project helpful in learning Redux Toolkit with React, please **give it a star** on GitHub! Your support helps others discover this resource.
+
+### 📢 Share with New Developers
+
+Know someone interested in learning Redux Toolkit and React? **Share this repository** with them! This project is designed specifically for:
+
+- 👨‍💻 Developers new to Redux
+- 🎓 Students learning state management
+- 🚀 Frontend developers transitioning to RTK
+- 📚 Anyone wanting to understand Redux concepts progressively
+
+**How to Share:**
+
+- Share the GitHub repository link
+- Share this project in communities like Dev.to, Reddit's r/reactjs, or Discord servers
+- Recommend it to teammates or colleagues learning Redux
 
 ---
 

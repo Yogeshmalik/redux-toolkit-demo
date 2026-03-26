@@ -46,11 +46,6 @@ const IcecreamView = () => {
           </button>
         </div>
       </div>
-
-      <div className="tip">
-        💡 Click "Order Ice Cream" to sell from inventory, use "Restock" to add
-        new stock
-      </div>
     </div>
   );
 };

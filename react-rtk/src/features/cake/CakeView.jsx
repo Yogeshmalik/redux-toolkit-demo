@@ -46,11 +46,6 @@ const CakeView = () => {
           </button>
         </div>
       </div>
-
-      <div className="tip">
-        💡 Click "Order Cake" to sell from inventory, use "Restock" to add new
-        stock
-      </div>
     </div>
   );
 };
